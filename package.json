@@ -1,0 +1,21 @@
+{
+    "author": "beccadf@live.co.uk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "easy-fit",
+    "pebble": {
+        "displayName": "Easy Fit",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5165363a-ecbf-42fe-ad84-26488a420789",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
